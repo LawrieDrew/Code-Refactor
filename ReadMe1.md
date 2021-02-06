@@ -9,8 +9,9 @@ Additionally, the clean and modified code allows for the swift (hopefully merfic
 
 I found this to be a sufficiently challenging trial exercise in applying industry standards to a would-be paid assignment in a professional setting.
 
-![code refactor demo]()
+![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
 
+![Github URL](git@github.com:LawrieDrew/Code-Refactor.git) 
 - - -
 
 Copyright (c) [2021] [Columbia School of Engineering]
